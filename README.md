@@ -8,4 +8,5 @@ Here is how do you use the Python script. Let's say, you have subtitles of a med
 Here is an example of the srtTimeShifter.ini file:
 
 inputFileName = "test.srt"
+
 addSeconds = -25.7
