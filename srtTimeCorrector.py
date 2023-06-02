@@ -6,7 +6,7 @@ Input: 2 files
 * Subtitle-file in SRT format, UTF-8
 * The file srtTimeCorrector.ini
   ---------------------------------
-  | inputFileName = test.srt      |
+  | inputFileName = "test.srt"    |
   | time1oldInSRT = 00:01:15.700  | ... time1 is near the start of the video
   | time1inVideo  = 00:01:20.100  |
   | time2oldInSRT = 01:20:58.500  | ... time2 is near the end of the video

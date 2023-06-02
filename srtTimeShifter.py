@@ -5,10 +5,10 @@ Author: J. Grätzer, 2020-01-22
 Input: 2 files
 * Subtitle-file in SRT format, UTF-8
 * The file srtTimeShifter.ini
-  ---------------------------------
-  | inputFileName = filename.srt  |
-  | addSeconds = -25.7            |
-  ---------------------------------
+  ----------------------------------
+  | inputFileName = "filename.srt" |
+  | addSeconds = -25.7             |
+  ----------------------------------
 
 Output is: filename.srt_new.srt
 
