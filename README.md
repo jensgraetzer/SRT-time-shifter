@@ -32,7 +32,7 @@ The Data Processing Map of this process is similar to the Data Processing Map ab
 
 Here is an example of the srtTimeCorrector.ini file:
 
-inputFileName = test.srt
+inputFileName = "file.srt"
 
 time1oldInSRT = 00:00:15.700
 
@@ -40,5 +40,5 @@ time1inVideo  = 00:00:20.100
 
 time2oldInSRT = 01:20:58.500
 
-time2inVideo  = 01:20:54.200
+time2inVideo  = 01:17:54.200
 
