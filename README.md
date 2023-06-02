@@ -34,9 +34,9 @@ Here is an example of the srtTimeCorrector.ini file:
 
 inputFileName = test.srt
 
-time1oldInSRT = 00:01:15.700
+time1oldInSRT = 00:00:15.700
 
-time1inVideo  = 00:01:20.100
+time1inVideo  = 00:00:20.100
 
 time2oldInSRT = 01:20:58.500
 
