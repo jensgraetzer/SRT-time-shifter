@@ -1,6 +1,6 @@
 # SRT-time-shifter
 
-This very simple Python scripts shift all the times in a SRT subtitle file.
+These very simple Python scripts shift all the times in a SRT subtitle file.
 
 Say, you have a mediafile (a video or an audio file) with subtitles. The subtitles are stored in a separate subtitle file - a textfile in SRT format. Imagine, the time values in the subtitle file need to be shifted, to be accurate.
 
