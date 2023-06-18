@@ -24,7 +24,7 @@ addSeconds = -3.435
 
 ## srtTimeCorrector.py
 
-Do you want to shift all subtitle times in a way, that they fit to a media file, that runs at a sligtly different speed? Than write the name of the subtitle file srtTimeCorrector.ini. Add a pair of times (old, new time) from the beginning of the media file. And add a pair of times (old, new time) from the beginning of the media file.
+Do you want to shift all subtitle times in a way, that they fit to a media file, that runs at a sligtly different speed? Than write the name of the subtitle file srtTimeCorrector.ini. Add a pair of times (old, new time) from the beginning of the media file. And add a pair of times (old, new time) from the end of the media file.
 
 Next, run the script srtTimeCorrector.py. The script reads the subtitle file and outputs a new subtitle file with the new times.
 
